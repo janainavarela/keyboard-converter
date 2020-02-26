@@ -1,7 +1,6 @@
 # keyboard_convert
 
-A Clojure library designed to ... well, that part is up to you.
-
+A Clojure library designed to convert cifras from a eletronic piano keyboard to a computer keyboard so we can play songs in website https://real-royal.com/pt/
 ## Usage
 
 FIXME
